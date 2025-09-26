@@ -15,9 +15,8 @@
 
 - 📫 How to reach me **📧 Email: dr.mayorga20@gmail.com 💼 [LinkedIn](https://www.linkedin.com/in/demayorgaherrera/)**
 
-<!-- - 📄 Know about my experiences [resume](https://drive.google.com/file/d/mycv/view) -->
-
 - ⚡ Fun fact **During working hours I am on front of the screen developing. During weekends, I participate in some fashion events**
+- More details grouped by skills on [LinkedIn](https://stackshare.io/damayor/software-engineer) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,6 +37,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
-More details grouped by skills on [stackshare](https://stackshare.io/damayor/software-engineer)
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 </p>
+<p>More details grouped by skills on <a href="https://stackshare.io/damayor/software-engineer">stackshare</a></p>
