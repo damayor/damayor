@@ -16,7 +16,6 @@
 - 📫 How to reach me **📧 Email: dr.mayorga20@gmail.com 💼 [LinkedIn](https://www.linkedin.com/in/demayorgaherrera/)**
 
 - ⚡ Fun fact **During working hours I am on front of the screen developing. During weekends, I participate in some fashion events**
-- More details grouped by skills on [LinkedIn](https://stackshare.io/damayor/software-engineer) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
