@@ -1,5 +1,5 @@
 ﻿<h1 align="center">David Mayorga</h1>
-<h3 align="center">A software engineer bringing visual and interactive ideas to life with code</h3>
+<h3 align="center">A software engineer visual and interactive innovations to life with code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damayor&label=Profile%20views&color=0e75b6&style=flat" alt="damayor" /> </p>
 
