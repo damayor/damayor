@@ -1,15 +1,13 @@
 ﻿<h1 align="center">David Mayorga</h1>
-<h3 align="center">A software engineer visual and interactive innovations to life with code</h3>
+<h3 align="center">A software engineer bringing innovations to life with code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damayor&label=Profile%20views&color=0e75b6&style=flat" alt="damayor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damayor" alt="damayor" /></a> </p>
 
-- 💬 Ask me about **React, Angular, TypeScript, and a huge development with NodeJS (Jest, EsLint, React Testing Library)**
+- 💬 Ask me about **React, Angular, TypeScript, and a huge development with NodeJS (Vite, Jest, EsLint, React Testing Library)**
 
-- 🌱 I’m currently appylying the improved knowledge of **Angular, C++ and NextJs**
-
-- Strong experience with Game development (**Unity, C# and Unreal**) for social games or proptech
+- Strong experience with DevOps (**Docker, Kubernetes, Opsgenie**) and Game development (**Unity, C# and Unreal**) for social games or proptech
 
 - 👨‍💻 All of my projects are available at [github repos](https://github.com/damayor?tab=repositories) -->
 
