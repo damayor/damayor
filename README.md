@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **a huge development with NodeJS (JS/TS, React, Angular, Vite, Jest, EsLint, React Testing Library)** and **Virtual/Augmented Reality**
 
-- Strong experience with visual & interactive development **(Unity, C#, WebGL, Three.JS, Unreal, C++ & .NET)** for social games or Proptech architecture, and CI/CD DevOps (**Docker, Kubernetes, Opsgenie**) and
+- Strong experience with visual & interactive development **(Unity, C#, WebGL, Three.JS, Unreal, C++ & .NET)** for social games or Proptech architecture, and CI/CD DevOps (**Docker, Kubernetes, Opsgenie**)
 
 - 👨‍💻 The best of my projects are well-known in my web page [May Interactive](https://mayinteractive.io/) and available at [github repos](https://github.com/damayor?tab=repositories) -->
 
