@@ -1,27 +1,36 @@
-﻿<h1 align="center">David Mayorga</h1>
-<h3 align="center">A software engineer bringing innovations to life with code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damayor&label=Profile%20views&color=0e75b6&style=flat" alt="damayor" /> </p>
+# David Mayorga-Herrera | Software Engineer (M.Sc.) 🚀
+### Specialized in Computer Graphics, Web & Mobile Development
+![Profile Views](https://komarev.com/ghpvc/?username=damayor&color=ff69b4&style=flat-square&label=PROFILE+VIEWS)
 
-<!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damayor" alt="damayor" /></a> </p-->
+I am a Software Engineer (M.Sc.) with over 6 years of experience designing, building, and deploying large-scale web platforms and interactive applications. My expertise lies at the intersection of **High-Performance Computer Graphics** and **Full-Stack Engineering**, bridging the gap between complex 3D data and intuitive user experiences for web and mobile.
 
-- 💬 Ask me about **a huge development with NodeJS (JS/TS, React, Angular, Vite, Jest, EsLint, React Testing Library)** and **Virtual/Augmented Reality**
+**📍 Based in Berlin, Germany**
 
-- Strong experience with visual & interactive development **(Unity, C#, WebGL, Three.JS, Unreal, C++ & .NET)** for social games or Proptech architecture, and CI/CD DevOps (**Docker, Kubernetes, Opsgenie**)
+---
 
-- 👨‍💻 The best of my projects are well-known in my web page [May Interactive](https://mayinteractive.io/) and available at [github repos](https://github.com/damayor?tab=repositories) -->
+### 🛠 Languages and Tools
 
-- 📫 How to reach me **📧 Email: david@mayinteractive.com 💼 [LinkedIn](https://www.linkedin.com/in/demayorgaherrera/)**
+#### 🎨 Computer Graphics & Game Dev (Core Specialty)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.dot.js&logoColor=white&style=flat) ![WebGL](https://img.shields.io/badge/-WebGL-990000?logo=webgl&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) ![Unreal](https://img.shields.io/badge/-Unreal_Engine-313131?logo=unreal-engine&logoColor=white&style=flat) ![Pixi.js](https://img.shields.io/badge/-Pixi.js-E91E63?logo=pixijs&logoColor=white&style=flat)
 
-- ⚡ Fun fact: During working hours I am on front of the screen developing. During weekends, I participate in some fashion events.
+#### 🌐 Web & Mobile Development (Frontend/UI)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/demayorgaherrera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="demayorguerrera" height="30" width="40" /></a>
+#### ⚙️ Backend & SRE (T-Shaped Infrastructure)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.dot.js&logoColor=white&style=flat) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat)
+
+---
+
+### 📈 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=damayor&show_icons=true&theme=radical&count_private=true" alt="David's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damayor&layout=compact&theme=radical&hide=html" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/</a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="html5" width="40" height="40"/></a><a href="/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="html5" width="40" height="40"/></a><a href="/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="html5" width="40" height="40"/></a><a href="/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="html5" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-</p>
-<p>More details grouped by skills on <a href="https://stackshare.io/damayor/software-engineer">stackshare</a></p>
+---
+
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/demayorgaherrera/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4B4B?logo=web&logoColor=white&style=for-the-badge)](https://mayinteractive.io/)
+[![Repositories](https://img.shields.io/badge/-My_Repos-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/damayor?tab=repositories)
