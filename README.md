@@ -1,6 +1,6 @@
 
 # David Mayorga-Herrera | Software Engineer (M.Sc.) 🚀
-### Specialized in Computer Graphics, Web & Mobile Development and Artificial Intelligence
+### Specialized in Web & Software Engineering, Computer Graphics and Artificial Intelligence
 ![Profile Views](https://komarev.com/ghpvc/?username=damayor&color=ff69b4&style=flat-square&label=PROFILE+VIEWS)
 
 I am a Software Engineer (M.Sc.) with over 6 years of experience designing, building, and deploying large-scale web platforms and interactive applications. My expertise lies at the intersection of **High-Performance Computer Graphics** and **Full-Stack Engineering**, bridging the gap between complex 3D data and intuitive user experiences for web and mobile.
